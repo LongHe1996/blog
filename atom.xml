@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Eugen&#39;s Blog</title>
+  
+  <subtitle>生活历史</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-13T14:16:55.550Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Eugen Shen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rusty Lake:Paradise</title>
+    <link href="http://yoursite.com/2019/05/13/games/Rusty-Lake-Paradise/"/>
+    <id>http://yoursite.com/2019/05/13/games/Rusty-Lake-Paradise/</id>
+    <published>2019-05-13T14:16:55.000Z</published>
+    <updated>2019-05-13T14:16:55.550Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>读文学史</title>
+    <link href="http://yoursite.com/2019/05/13/history/%E8%AF%BB%E6%96%87%E5%AD%A6%E5%8F%B2/"/>
+    <id>http://yoursite.com/2019/05/13/history/读文学史/</id>
+    <published>2019-05-13T13:40:03.000Z</published>
+    <updated>2019-05-13T15:07:26.379Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+    
+      <category term="读史" scheme="http://yoursite.com/tags/%E8%AF%BB%E5%8F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读哲学史</title>
+    <link href="http://yoursite.com/2019/05/12/history/%E8%AF%BB%E5%93%B2%E5%AD%A6%E5%8F%B2/"/>
+    <id>http://yoursite.com/2019/05/12/history/读哲学史/</id>
+    <published>2019-05-12T15:03:06.000Z</published>
+    <updated>2019-05-13T15:07:26.379Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;The-philosophy-book&quot;&gt;&lt;a href=&quot;#The-philosophy-book&quot; class=&quot;headerlink&quot; title=&quot;The philosophy book&quot;&gt;&lt;/a&gt;&lt;em&gt;The philosophy
+        
+      
+    
+    </summary>
+    
+    
+      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+    
+      <category term="读史" scheme="http://yoursite.com/tags/%E8%AF%BB%E5%8F%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>致D</title>
+    <link href="http://yoursite.com/2019/05/12/notes/%E8%87%B4D/"/>
+    <id>http://yoursite.com/2019/05/12/notes/致D/</id>
+    <published>2019-05-12T05:05:46.000Z</published>
+    <updated>2019-05-12T08:54:48.401Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;190512（完）&quot;&gt;&lt;a href=&quot;#190512（完）&quot; class=&quot;headerlink&quot; title=&quot;190512（完）&quot;&gt;&lt;/a&gt;190512（完）&lt;/h3&gt;&lt;h4 id=&quot;译者对感情的观点&quot;&gt;&lt;a href=&quot;#译者对感情的观点&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二十首情诗和一支绝望的歌</title>
+    <link href="http://yoursite.com/2019/05/09/notes/%E4%BA%8C%E5%8D%81%E9%A6%96%E6%83%85%E8%AF%97%E5%92%8C%E4%B8%80%E6%94%AF%E7%BB%9D%E6%9C%9B%E7%9A%84%E6%AD%8C/"/>
+    <id>http://yoursite.com/2019/05/09/notes/二十首情诗和一支绝望的歌/</id>
+    <published>2019-05-09T05:06:46.000Z</published>
+    <updated>2019-05-09T05:06:46.985Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>马尔多罗之歌</title>
+    <link href="http://yoursite.com/2019/05/09/notes/%E9%A9%AC%E5%B0%94%E5%A4%9A%E7%BD%97%E4%B9%8B%E6%AD%8C/"/>
+    <id>http://yoursite.com/2019/05/09/notes/马尔多罗之歌/</id>
+    <published>2019-05-09T05:06:10.000Z</published>
+    <updated>2019-05-09T05:06:10.773Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>金阁寺</title>
+    <link href="http://yoursite.com/2019/05/09/notes/%E9%87%91%E9%98%81%E5%AF%BA/"/>
+    <id>http://yoursite.com/2019/05/09/notes/金阁寺/</id>
+    <published>2019-05-09T05:05:40.000Z</published>
+    <updated>2019-05-09T05:05:40.196Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>经济学讲义</title>
+    <link href="http://yoursite.com/2019/05/09/notes/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%AE%B2%E4%B9%89/"/>
+    <id>http://yoursite.com/2019/05/09/notes/经济学讲义/</id>
+    <published>2019-05-09T05:03:58.000Z</published>
+    <updated>2019-05-09T05:03:58.771Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>烧毁那条河</title>
+    <link href="http://yoursite.com/2019/04/24/novels/%E7%83%A7%E6%AF%81%E9%82%A3%E6%9D%A1%E6%B2%B3/"/>
+    <id>http://yoursite.com/2019/04/24/novels/烧毁那条河/</id>
+    <published>2019-04-24T15:00:58.000Z</published>
+    <updated>2019-05-23T03:55:47.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;一-20171222&quot;&gt;&lt;a href=&quot;#一-20171222&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="小说" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不要温顺地走进那个良宵</title>
+    <link href="http://yoursite.com/2019/04/12/notes/%E4%B8%8D%E8%A6%81%E6%B8%A9%E9%A1%BA%E5%9C%B0%E8%B5%B0%E8%BF%9B%E9%82%A3%E4%B8%AA%E8%89%AF%E5%AE%B5/"/>
+    <id>http://yoursite.com/2019/04/12/notes/不要温顺地走进那个良宵/</id>
+    <published>2019-04-12T00:43:10.000Z</published>
+    <updated>2019-05-20T01:38:11.062Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;190304&quot;&gt;&lt;a href=&quot;#190304&quot; class=&quot;headerlink&quot; title=&quot;190304&quot;&gt;&lt;/a&gt;190304&lt;/h3&gt;&lt;h4 id=&quot;此段文字摘录只用来警醒本人&quot;&gt;&lt;a href=&quot;#此段文字摘录只用来警醒本人&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RustyLake:Roots</title>
+    <link href="http://yoursite.com/2019/03/27/games/RustyLake-Roots/"/>
+    <id>http://yoursite.com/2019/03/27/games/RustyLake-Roots/</id>
+    <published>2019-03-27T00:57:47.000Z</published>
+    <updated>2019-05-08T14:58:13.165Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;MindMap&quot;&gt;&lt;a href=&quot;#MindMap&quot; class=&quot;headerlink&quot; title=&quot;MindMap&quot;&gt;&lt;/a&gt;MindMap&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/images/Vanderboom.png&quot; alt&gt;&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="游戏笔记" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="Rusty Lake" scheme="http://yoursite.com/tags/Rusty-Lake/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>黑旗</title>
+    <link href="http://yoursite.com/2019/03/25/notes/%E9%BB%91%E6%97%97/"/>
+    <id>http://yoursite.com/2019/03/25/notes/黑旗/</id>
+    <published>2019-03-25T09:23:22.000Z</published>
+    <updated>2019-05-08T05:38:33.201Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;190319&quot;&gt;&lt;a href=&quot;#190319&quot; class=&quot;headerlink&quot; title=&quot;190319&quot;&gt;&lt;/a&gt;190319&lt;/h3&gt;&lt;h4 id=&quot;在破船上凿出一个新窟窿-Hahah&quot;&gt;&lt;a href=&quot;#在破船上凿出一个新窟窿-Hahah&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>查拉图斯特拉如是说</title>
+    <link href="http://yoursite.com/2018/10/14/notes/%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89%E5%A6%82%E6%98%AF%E8%AF%B4/"/>
+    <id>http://yoursite.com/2018/10/14/notes/查拉图斯特拉如是说/</id>
+    <published>2018-10-14T05:05:15.000Z</published>
+    <updated>2019-05-09T05:31:50.483Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我愿意赠送和分发，直到世人中的智者再度乐其愚，贫者再度乐其富。
+        
+      
+    
+    </summary>
+    
+    
+      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雨夜散记</title>
+    <link href="http://yoursite.com/2018/09/07/prose/%E9%9B%A8%E5%A4%9C%E6%95%A3%E8%AE%B0/"/>
+    <id>http://yoursite.com/2018/09/07/prose/雨夜散记/</id>
+    <published>2018-09-07T13:32:02.000Z</published>
+    <updated>2019-04-24T15:31:57.328Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;今天下雨了，下小小雨，不是落下来的大雨，不是飘下来的烟雨，是小小雨，是看不见但最好撑把伞的小小雨。&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于生活</title>
+    <link href="http://yoursite.com/2018/04/09/%E5%85%B3%E4%BA%8E%E7%94%9F%E6%B4%BB/"/>
+    <id>http://yoursite.com/2018/04/09/关于生活/</id>
+    <published>2018-04-09T15:54:12.000Z</published>
+    <updated>2019-04-17T11:53:50.706Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;今天翻很久之前看了开头的《查拉图斯特拉如是说》，发现夹在里面的书签是一张单向出的明信片，上面写着Chekhov的一句话&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;生活自
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2018生日记</title>
+    <link href="http://yoursite.com/2018/02/27/2018%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
+    <id>http://yoursite.com/2018/02/27/2018生日记/</id>
+    <published>2018-02-27T14:37:26.000Z</published>
+    <updated>2019-04-17T11:53:50.705Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;今天是我的22岁生月的最后一天，由于我并不过生日，所以这也不是重要的一天。&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生日记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我对生活的误解</title>
+    <link href="http://yoursite.com/2017/11/05/%E6%88%91%E5%AF%B9%E7%94%9F%E6%B4%BB%E7%9A%84%E8%AF%AF%E8%A7%A3/"/>
+    <id>http://yoursite.com/2017/11/05/我对生活的误解/</id>
+    <published>2017-11-05T13:48:43.000Z</published>
+    <updated>2019-04-17T11:53:50.706Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;一、我常有幻想，对要来的未知的生活抱有新生的幻想，但后来发生的，往往无甚惊喜，甚至常常忘了，这是新的生活。&lt;/p&gt;
+&lt;p&gt;二、我常轻视他人，没有对学识的追求，没有对广袤世界的好奇，却发现我并不如其对生活及其中琐事的掌握。&lt;/p&gt;
+&lt;p&gt;三、我常不屑那些趋易畏难的年轻人，觉得
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于遇见陌生人</title>
+    <link href="http://yoursite.com/2017/09/17/%E5%85%B3%E4%BA%8E%E9%81%87%E8%A7%81%E9%99%8C%E7%94%9F%E4%BA%BA/"/>
+    <id>http://yoursite.com/2017/09/17/关于遇见陌生人/</id>
+    <published>2017-09-17T14:59:42.000Z</published>
+    <updated>2019-04-17T11:53:50.706Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;前几天不知爸妈遇到什么，忽然指责我长大后都不爱打招呼了。我仔细想了想，似乎的确是吧。于是今天想谈谈关于这件事。&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>长痘诗</title>
+    <link href="http://yoursite.com/2017/08/16/poems/%E9%95%BF%E7%97%98%E8%AF%97/"/>
+    <id>http://yoursite.com/2017/08/16/poems/长痘诗/</id>
+    <published>2017-08-16T05:36:51.000Z</published>
+    <updated>2019-05-09T05:38:22.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;center&gt;我脸上长了一颗痘&lt;br&gt;心里就戳了一个孔&lt;br&gt;我眼角长了一颗痘&lt;br&gt;心里就渗出了水来&lt;/center&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="小诗" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>孤独与人不合拍</title>
+    <link href="http://yoursite.com/2017/08/14/%E5%AD%A4%E7%8B%AC%E4%B8%8E%E4%BA%BA%E4%B8%8D%E5%90%88%E6%8B%8D/"/>
+    <id>http://yoursite.com/2017/08/14/孤独与人不合拍/</id>
+    <published>2017-08-14T03:47:35.000Z</published>
+    <updated>2019-04-17T11:53:50.706Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;最近听到那首歌，消愁，歌本身是哀愁的，近些年我已经不听这类歌了。&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+    
+  </entry>
+  
+</feed>

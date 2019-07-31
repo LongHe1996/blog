@@ -3,11 +3,11 @@
   <title>Eugen&#39;s Blog</title>
   
   <subtitle>生活历史</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://yoursite.com/blog/"/>
   <updated>2019-07-28T15:49:38.239Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://yoursite.com/blog/</id>
   
   <author>
     <name>Eugen Shen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>己亥年六月廿六诗</title>
-    <link href="http://yoursite.com/2019/07/28/poems/%E5%B7%B1%E4%BA%A5%E5%B9%B4%E5%85%AD%E6%9C%88%E5%BB%BF%E5%85%AD%E8%AF%97/"/>
-    <id>http://yoursite.com/2019/07/28/poems/己亥年六月廿六诗/</id>
+    <link href="http://yoursite.com/blog/2019/07/28/poems/%E5%B7%B1%E4%BA%A5%E5%B9%B4%E5%85%AD%E6%9C%88%E5%BB%BF%E5%85%AD%E8%AF%97/"/>
+    <id>http://yoursite.com/blog/2019/07/28/poems/己亥年六月廿六诗/</id>
     <published>2019-07-28T15:36:51.000Z</published>
     <updated>2019-07-28T15:49:38.239Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="小诗" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%97/"/>
+      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>千只鹤（完）</title>
-    <link href="http://yoursite.com/2019/06/20/notes/%E5%8D%83%E5%8F%AA%E9%B9%A4/"/>
-    <id>http://yoursite.com/2019/06/20/notes/千只鹤/</id>
+    <link href="http://yoursite.com/blog/2019/06/20/notes/%E5%8D%83%E5%8F%AA%E9%B9%A4/"/>
+    <id>http://yoursite.com/blog/2019/06/20/notes/千只鹤/</id>
     <published>2019-06-20T05:03:58.000Z</published>
     <updated>2019-07-22T04:34:24.749Z</updated>
     
@@ -60,14 +60,14 @@
     </summary>
     
     
-      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+      <category term="摘记" scheme="http://yoursite.com/blog/tags/%E6%91%98%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>每日记</title>
-    <link href="http://yoursite.com/2019/06/01/%E6%AF%8F%E6%97%A5%E8%AE%B0/"/>
-    <id>http://yoursite.com/2019/06/01/每日记/</id>
+    <link href="http://yoursite.com/blog/2019/06/01/%E6%AF%8F%E6%97%A5%E8%AE%B0/"/>
+    <id>http://yoursite.com/blog/2019/06/01/每日记/</id>
     <published>2019-06-01T06:45:07.000Z</published>
     <updated>2019-07-31T05:38:23.425Z</updated>
     
@@ -85,14 +85,14 @@
     </summary>
     
     
-      <category term="日记" scheme="http://yoursite.com/tags/%E6%97%A5%E8%AE%B0/"/>
+      <category term="日记" scheme="http://yoursite.com/blog/tags/%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>致D（完）</title>
-    <link href="http://yoursite.com/2019/05/12/notes/%E8%87%B4D/"/>
-    <id>http://yoursite.com/2019/05/12/notes/致D/</id>
+    <link href="http://yoursite.com/blog/2019/05/12/notes/%E8%87%B4D/"/>
+    <id>http://yoursite.com/blog/2019/05/12/notes/致D/</id>
     <published>2019-05-12T05:05:46.000Z</published>
     <updated>2019-07-04T16:06:13.114Z</updated>
     
@@ -109,14 +109,14 @@
     </summary>
     
     
-      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+      <category term="摘记" scheme="http://yoursite.com/blog/tags/%E6%91%98%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>不要温顺地走进那个良宵</title>
-    <link href="http://yoursite.com/2019/04/12/notes/%E4%B8%8D%E8%A6%81%E6%B8%A9%E9%A1%BA%E5%9C%B0%E8%B5%B0%E8%BF%9B%E9%82%A3%E4%B8%AA%E8%89%AF%E5%AE%B5/"/>
-    <id>http://yoursite.com/2019/04/12/notes/不要温顺地走进那个良宵/</id>
+    <link href="http://yoursite.com/blog/2019/04/12/notes/%E4%B8%8D%E8%A6%81%E6%B8%A9%E9%A1%BA%E5%9C%B0%E8%B5%B0%E8%BF%9B%E9%82%A3%E4%B8%AA%E8%89%AF%E5%AE%B5/"/>
+    <id>http://yoursite.com/blog/2019/04/12/notes/不要温顺地走进那个良宵/</id>
     <published>2019-04-12T00:43:10.000Z</published>
     <updated>2019-07-22T04:39:16.868Z</updated>
     
@@ -133,14 +133,14 @@
     </summary>
     
     
-      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+      <category term="摘记" scheme="http://yoursite.com/blog/tags/%E6%91%98%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>RustyLake:Roots</title>
-    <link href="http://yoursite.com/2019/03/27/games/RustyLake-Roots/"/>
-    <id>http://yoursite.com/2019/03/27/games/RustyLake-Roots/</id>
+    <link href="http://yoursite.com/blog/2019/03/27/games/RustyLake-Roots/"/>
+    <id>http://yoursite.com/blog/2019/03/27/games/RustyLake-Roots/</id>
     <published>2019-03-27T00:57:47.000Z</published>
     <updated>2019-07-06T08:56:20.998Z</updated>
     
@@ -158,16 +158,16 @@
     </summary>
     
     
-      <category term="游戏笔记" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F%E7%AC%94%E8%AE%B0/"/>
+      <category term="游戏笔记" scheme="http://yoursite.com/blog/tags/%E6%B8%B8%E6%88%8F%E7%AC%94%E8%AE%B0/"/>
     
-      <category term="Rusty Lake" scheme="http://yoursite.com/tags/Rusty-Lake/"/>
+      <category term="Rusty Lake" scheme="http://yoursite.com/blog/tags/Rusty-Lake/"/>
     
   </entry>
   
   <entry>
     <title>黑旗</title>
-    <link href="http://yoursite.com/2019/03/25/notes/%E9%BB%91%E6%97%97/"/>
-    <id>http://yoursite.com/2019/03/25/notes/黑旗/</id>
+    <link href="http://yoursite.com/blog/2019/03/25/notes/%E9%BB%91%E6%97%97/"/>
+    <id>http://yoursite.com/blog/2019/03/25/notes/黑旗/</id>
     <published>2019-03-25T09:23:22.000Z</published>
     <updated>2019-05-08T05:38:33.201Z</updated>
     
@@ -184,14 +184,14 @@
     </summary>
     
     
-      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+      <category term="摘记" scheme="http://yoursite.com/blog/tags/%E6%91%98%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>雨夜散记</title>
-    <link href="http://yoursite.com/2018/09/07/prose/%E9%9B%A8%E5%A4%9C%E6%95%A3%E8%AE%B0/"/>
-    <id>http://yoursite.com/2018/09/07/prose/雨夜散记/</id>
+    <link href="http://yoursite.com/blog/2018/09/07/prose/%E9%9B%A8%E5%A4%9C%E6%95%A3%E8%AE%B0/"/>
+    <id>http://yoursite.com/blog/2018/09/07/prose/雨夜散记/</id>
     <published>2018-09-07T13:32:02.000Z</published>
     <updated>2019-07-31T05:36:00.964Z</updated>
     
@@ -209,14 +209,14 @@
     </summary>
     
     
-      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+      <category term="生活散记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>关于生活</title>
-    <link href="http://yoursite.com/2018/04/09/%E5%85%B3%E4%BA%8E%E7%94%9F%E6%B4%BB/"/>
-    <id>http://yoursite.com/2018/04/09/关于生活/</id>
+    <link href="http://yoursite.com/blog/2018/04/09/%E5%85%B3%E4%BA%8E%E7%94%9F%E6%B4%BB/"/>
+    <id>http://yoursite.com/blog/2018/04/09/关于生活/</id>
     <published>2018-04-09T15:54:12.000Z</published>
     <updated>2019-04-17T11:53:50.706Z</updated>
     
@@ -235,14 +235,14 @@
     </summary>
     
     
-      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+      <category term="生活散记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>查拉图斯特拉如是说</title>
-    <link href="http://yoursite.com/2018/03/27/notes/%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89%E5%A6%82%E6%98%AF%E8%AF%B4/"/>
-    <id>http://yoursite.com/2018/03/27/notes/查拉图斯特拉如是说/</id>
+    <link href="http://yoursite.com/blog/2018/03/27/notes/%E6%9F%A5%E6%8B%89%E5%9B%BE%E6%96%AF%E7%89%B9%E6%8B%89%E5%A6%82%E6%98%AF%E8%AF%B4/"/>
+    <id>http://yoursite.com/blog/2018/03/27/notes/查拉图斯特拉如是说/</id>
     <published>2018-03-27T05:05:15.000Z</published>
     <updated>2019-07-31T05:29:05.925Z</updated>
     
@@ -259,14 +259,14 @@
     </summary>
     
     
-      <category term="摘记" scheme="http://yoursite.com/tags/%E6%91%98%E8%AE%B0/"/>
+      <category term="摘记" scheme="http://yoursite.com/blog/tags/%E6%91%98%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>2018生日记</title>
-    <link href="http://yoursite.com/2018/02/27/2018%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
-    <id>http://yoursite.com/2018/02/27/2018生日记/</id>
+    <link href="http://yoursite.com/blog/2018/02/27/2018%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
+    <id>http://yoursite.com/blog/2018/02/27/2018生日记/</id>
     <published>2018-02-27T14:37:26.000Z</published>
     <updated>2019-04-17T11:53:50.705Z</updated>
     
@@ -284,14 +284,14 @@
     </summary>
     
     
-      <category term="生日记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
+      <category term="生日记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>我对生活的误解</title>
-    <link href="http://yoursite.com/2017/11/05/%E6%88%91%E5%AF%B9%E7%94%9F%E6%B4%BB%E7%9A%84%E8%AF%AF%E8%A7%A3/"/>
-    <id>http://yoursite.com/2017/11/05/我对生活的误解/</id>
+    <link href="http://yoursite.com/blog/2017/11/05/%E6%88%91%E5%AF%B9%E7%94%9F%E6%B4%BB%E7%9A%84%E8%AF%AF%E8%A7%A3/"/>
+    <id>http://yoursite.com/blog/2017/11/05/我对生活的误解/</id>
     <published>2017-11-05T13:48:43.000Z</published>
     <updated>2019-04-17T11:53:50.706Z</updated>
     
@@ -310,14 +310,14 @@
     </summary>
     
     
-      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+      <category term="生活散记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>关于遇见陌生人</title>
-    <link href="http://yoursite.com/2017/09/17/%E5%85%B3%E4%BA%8E%E9%81%87%E8%A7%81%E9%99%8C%E7%94%9F%E4%BA%BA/"/>
-    <id>http://yoursite.com/2017/09/17/关于遇见陌生人/</id>
+    <link href="http://yoursite.com/blog/2017/09/17/%E5%85%B3%E4%BA%8E%E9%81%87%E8%A7%81%E9%99%8C%E7%94%9F%E4%BA%BA/"/>
+    <id>http://yoursite.com/blog/2017/09/17/关于遇见陌生人/</id>
     <published>2017-09-17T14:59:42.000Z</published>
     <updated>2019-04-17T11:53:50.706Z</updated>
     
@@ -335,14 +335,14 @@
     </summary>
     
     
-      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+      <category term="生活散记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>长痘诗</title>
-    <link href="http://yoursite.com/2017/08/16/poems/%E9%95%BF%E7%97%98%E8%AF%97/"/>
-    <id>http://yoursite.com/2017/08/16/poems/长痘诗/</id>
+    <link href="http://yoursite.com/blog/2017/08/16/poems/%E9%95%BF%E7%97%98%E8%AF%97/"/>
+    <id>http://yoursite.com/blog/2017/08/16/poems/长痘诗/</id>
     <published>2017-08-16T05:36:51.000Z</published>
     <updated>2019-05-09T05:38:22.490Z</updated>
     
@@ -359,14 +359,14 @@
     </summary>
     
     
-      <category term="小诗" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%97/"/>
+      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>孤独与人不合拍</title>
-    <link href="http://yoursite.com/2017/08/14/%E5%AD%A4%E7%8B%AC%E4%B8%8E%E4%BA%BA%E4%B8%8D%E5%90%88%E6%8B%8D/"/>
-    <id>http://yoursite.com/2017/08/14/孤独与人不合拍/</id>
+    <link href="http://yoursite.com/blog/2017/08/14/%E5%AD%A4%E7%8B%AC%E4%B8%8E%E4%BA%BA%E4%B8%8D%E5%90%88%E6%8B%8D/"/>
+    <id>http://yoursite.com/blog/2017/08/14/孤独与人不合拍/</id>
     <published>2017-08-14T03:47:35.000Z</published>
     <updated>2019-07-31T05:18:39.282Z</updated>
     
@@ -384,14 +384,14 @@
     </summary>
     
     
-      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+      <category term="生活散记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>今夜月下散记</title>
-    <link href="http://yoursite.com/2017/07/09/prose/%E4%BB%8A%E5%A4%9C%E6%9C%88%E4%B8%8B%E6%95%A3%E8%AE%B0/"/>
-    <id>http://yoursite.com/2017/07/09/prose/今夜月下散记/</id>
+    <link href="http://yoursite.com/blog/2017/07/09/prose/%E4%BB%8A%E5%A4%9C%E6%9C%88%E4%B8%8B%E6%95%A3%E8%AE%B0/"/>
+    <id>http://yoursite.com/blog/2017/07/09/prose/今夜月下散记/</id>
     <published>2017-07-08T16:00:00.000Z</published>
     <updated>2019-04-17T11:53:50.705Z</updated>
     
@@ -408,14 +408,14 @@
     </summary>
     
     
-      <category term="生活散记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
+      <category term="生活散记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%B4%BB%E6%95%A3%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>但我不懂地理</title>
-    <link href="http://yoursite.com/2017/07/02/poems/%E4%BD%86%E6%88%91%E4%B8%8D%E6%87%82%E5%9C%B0%E7%90%86/"/>
-    <id>http://yoursite.com/2017/07/02/poems/但我不懂地理/</id>
+    <link href="http://yoursite.com/blog/2017/07/02/poems/%E4%BD%86%E6%88%91%E4%B8%8D%E6%87%82%E5%9C%B0%E7%90%86/"/>
+    <id>http://yoursite.com/blog/2017/07/02/poems/但我不懂地理/</id>
     <published>2017-07-02T14:43:32.000Z</published>
     <updated>2019-04-17T11:53:50.705Z</updated>
     
@@ -432,14 +432,14 @@
     </summary>
     
     
-      <category term="小诗" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%97/"/>
+      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>2017生日记</title>
-    <link href="http://yoursite.com/2017/01/27/2017%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
-    <id>http://yoursite.com/2017/01/27/2017生日记/</id>
+    <link href="http://yoursite.com/blog/2017/01/27/2017%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
+    <id>http://yoursite.com/blog/2017/01/27/2017生日记/</id>
     <published>2017-01-27T15:25:23.000Z</published>
     <updated>2019-04-17T11:53:50.705Z</updated>
     
@@ -456,16 +456,16 @@
     </summary>
     
     
-      <category term="生日记" scheme="http://yoursite.com/tags/%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
+      <category term="生日记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
     
-      <category term="小诗" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%97/"/>
+      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>你是一只最会奔跑的鸟</title>
-    <link href="http://yoursite.com/2016/12/26/poems/%E4%BD%A0%E6%98%AF%E4%B8%80%E5%8F%AA%E6%9C%80%E4%BC%9A%E5%A5%94%E8%B7%91%E7%9A%84%E9%B8%9F/"/>
-    <id>http://yoursite.com/2016/12/26/poems/你是一只最会奔跑的鸟/</id>
+    <link href="http://yoursite.com/blog/2016/12/26/poems/%E4%BD%A0%E6%98%AF%E4%B8%80%E5%8F%AA%E6%9C%80%E4%BC%9A%E5%A5%94%E8%B7%91%E7%9A%84%E9%B8%9F/"/>
+    <id>http://yoursite.com/blog/2016/12/26/poems/你是一只最会奔跑的鸟/</id>
     <published>2016-12-26T14:49:38.000Z</published>
     <updated>2019-04-17T11:53:50.706Z</updated>
     
@@ -482,14 +482,14 @@
     </summary>
     
     
-      <category term="小诗" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%97/"/>
+      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   
   <entry>
     <title>原谅怯懦</title>
-    <link href="http://yoursite.com/2016/12/20/poems/%E5%8E%9F%E8%B0%85%E6%80%AF%E6%87%A6/"/>
-    <id>http://yoursite.com/2016/12/20/poems/原谅怯懦/</id>
+    <link href="http://yoursite.com/blog/2016/12/20/poems/%E5%8E%9F%E8%B0%85%E6%80%AF%E6%87%A6/"/>
+    <id>http://yoursite.com/blog/2016/12/20/poems/原谅怯懦/</id>
     <published>2016-12-20T14:53:11.000Z</published>
     <updated>2019-07-31T05:01:39.093Z</updated>
     
@@ -506,7 +506,7 @@
     </summary>
     
     
-      <category term="小诗" scheme="http://yoursite.com/tags/%E5%B0%8F%E8%AF%97/"/>
+      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   

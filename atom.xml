@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/blog/"/>
-  <updated>2019-07-28T15:49:38.239Z</updated>
+  <updated>2021-04-07T10:47:38.927Z</updated>
   <id>http://yoursite.com/blog/</id>
   
   <author>
@@ -15,6 +15,63 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决 Mac下 Brew 更新缓慢的问题</title>
+    <link href="http://yoursite.com/blog/2021/01/27/tech/%E8%A7%A3%E5%86%B3%20Mac%E4%B8%8B%20Brew%20%E6%9B%B4%E6%96%B0%E7%BC%93%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/blog/2021/01/27/tech/解决 Mac下 Brew 更新缓慢的问题/</id>
+    <published>2021-01-27T15:25:23.000Z</published>
+    <updated>2021-04-07T10:47:38.927Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;Mac 下 Brew 更新报错&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;highlight sh&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+      <category term="迅速拾起技能大作战" scheme="http://yoursite.com/blog/tags/%E8%BF%85%E9%80%9F%E6%8B%BE%E8%B5%B7%E6%8A%80%E8%83%BD%E5%A4%A7%E4%BD%9C%E6%88%98/"/>
+    
+      <category term="问题解决" scheme="http://yoursite.com/blog/tags/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决 Mac 升级为 Big Sur 系统后 Homebrew 命令失效的问题</title>
+    <link href="http://yoursite.com/blog/2021/01/27/tech/%E8%A7%A3%E5%86%B3%20Mac%20%E5%8D%87%E7%BA%A7%E4%B8%BA%20Big%20Sur%20%E7%B3%BB%E7%BB%9F%E5%90%8E%20Homebrew%20%E5%91%BD%E4%BB%A4%E5%A4%B1%E6%95%88%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>http://yoursite.com/blog/2021/01/27/tech/解决 Mac 升级为 Big Sur 系统后 Homebrew 命令失效的问题/</id>
+    <published>2021-01-27T15:00:00.000Z</published>
+    <updated>2021-04-07T10:48:07.130Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;报错内容&lt;/p&gt;
+&lt;figure class=&quot;highlight sh&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+      <category term="迅速拾起技能大作战" scheme="http://yoursite.com/blog/tags/%E8%BF%85%E9%80%9F%E6%8B%BE%E8%B5%B7%E6%8A%80%E8%83%BD%E5%A4%A7%E4%BD%9C%E6%88%98/"/>
+    
+      <category term="问题解决" scheme="http://yoursite.com/blog/tags/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>己亥年六月廿六诗</title>
@@ -69,7 +126,7 @@
     <link href="http://yoursite.com/blog/2019/06/01/%E6%AF%8F%E6%97%A5%E8%AE%B0/"/>
     <id>http://yoursite.com/blog/2019/06/01/每日记/</id>
     <published>2019-06-01T06:45:07.000Z</published>
-    <updated>2019-09-30T02:08:57.000Z</updated>
+    <updated>2021-04-07T11:15:32.475Z</updated>
     
     <summary type="html">
     
@@ -77,7 +134,7 @@
       
         
         
-          &lt;h3 id=&quot;2019年9月22日&quot;&gt;&lt;a href=&quot;#2019年9月22日&quot; class=&quot;headerlink&quot; title=&quot;2019年9月22日&quot;&gt;&lt;/a&gt;2019年9月22日&lt;/h3&gt;&lt;p&gt;人到了一定要做善事来平息内心的地步，一定是可怜可恨的吧。&lt;/p&gt;
+          &lt;h3 id=&quot;2021年3月16日&quot;&gt;&lt;a href=&quot;#2021年3月16日&quot; class=&quot;headerlink&quot; title=&quot;2021年3月16日&quot;&gt;&lt;/a&gt;2021年3月16日&lt;/h3&gt;&lt;p&gt;戈多是谁，为什么要等他。&lt;br&gt;戈多是谁，凭什么要等他。&lt;/p&gt;
 &lt;h3
         
       
@@ -457,54 +514,6 @@
     
     
       <category term="生日记" scheme="http://yoursite.com/blog/tags/%E7%94%9F%E6%97%A5%E8%AE%B0/"/>
-    
-      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>你是一只最会奔跑的鸟</title>
-    <link href="http://yoursite.com/blog/2016/12/26/poems/%E4%BD%A0%E6%98%AF%E4%B8%80%E5%8F%AA%E6%9C%80%E4%BC%9A%E5%A5%94%E8%B7%91%E7%9A%84%E9%B8%9F/"/>
-    <id>http://yoursite.com/blog/2016/12/26/poems/你是一只最会奔跑的鸟/</id>
-    <published>2016-12-26T14:49:38.000Z</published>
-    <updated>2019-04-17T11:53:50.706Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;center&gt;&lt;b&gt;&lt;br&gt;你是一只最会奔跑的鸟&lt;br&gt;&lt;br&gt;&lt;br&gt;远道而来
-        
-      
-    
-    </summary>
-    
-    
-      <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>原谅怯懦</title>
-    <link href="http://yoursite.com/blog/2016/12/20/poems/%E5%8E%9F%E8%B0%85%E6%80%AF%E6%87%A6/"/>
-    <id>http://yoursite.com/blog/2016/12/20/poems/原谅怯懦/</id>
-    <published>2016-12-20T14:53:11.000Z</published>
-    <updated>2019-07-31T05:01:39.093Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;center&gt;&lt;b&gt;&lt;br&gt;我看见今晚要做的梦&lt;br&gt;&lt;br&gt;你邀请我靠近看个仔细&lt;br&gt;&lt;br&gt;我不愿意&lt;br&gt;&lt;br&gt;&lt;br&gt;我晓得我并不梦见你&lt;br&gt;&lt;br&gt;我只会在夜晚奔跑&lt;br&gt;&lt;br&gt;&lt;br&gt;我希望你坐在夜晚的秒针上&lt;br&gt;&lt;br&gt;这暗无边际过得再快一点&lt;br&gt;&lt;b
-        
-      
-    
-    </summary>
-    
     
       <category term="小诗" scheme="http://yoursite.com/blog/tags/%E5%B0%8F%E8%AF%97/"/>
     

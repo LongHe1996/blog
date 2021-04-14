@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Mybatis 原理梳理即源码分析]]></title>
+    <url>%2Fblog%2F2021%2F02%2F21%2Ftech%2FMybatis%20%E5%8E%9F%E7%90%86%E6%A2%B3%E7%90%86%E5%8D%B3%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%2F</url>
+    <content type="text"><![CDATA[Mybatis 基础 Mybatis 缓存 Mybatis 插件 Mybatis 架构原理架构Mybatis 架构由接口层、数据处理层、框架支撑层组成： 接口层提供增删改查以及配置信息维护的接口，提供两种调用方法：1.基于StatementID 2.基于Mapper接口。 数据处理层负责具体的参数映射（ ParameterHandler ）、SQL 解析（ SqlSource ）、SQL 执行（ Excutor ）、结果集映射处理（ ResultSetHandler ）。 框架支撑曾提供最基础的功能支撑，包括连接管理、事务管理、配置加载、缓存管理等组件。 主要构件及层次结构主要构件 构件 描述 SqlSession 作为 MyBatis ⼯作的主要顶层 API，表示和数据库交互的会话，完成数据库增删改查功能 Executor MyBatis 执⾏器，是 MyBatis 调度的核⼼，负责 SQL 语句的⽣成和 查询缓存 的维护 StatementHandler 封装了JDBC Statement操作，如设置参数、将 Statement 结果集转换成List集合等。 ParameterHandler 参数映射处理，负责将⽤户传递的参数转换成 JDBC Statement 所需要的参数 ResultSetHandler 结果集映射处理，负责将 JDBC 返回的 ResultSet 结果集对象转换成 List 类型的集合 TypeHandler 负责java数据类型和jdbc数据类型之间的映射和转换 MappedStatement MappedStatement维护了⼀条SQL信息封装 SqlSource 负责根据⽤户传递的 parameterObject，动态地⽣成SQL语句，将信息封装到 BoundSql 对象中 BoundSql 表示动态⽣成的SQL语句以及相应的参数信息 层次结构123456789-&gt; SqlSession -&gt; SqlSession -&gt; Excutor -&gt; Excutor -&gt; StatememtHandler -&gt; StatememtHandler -&gt; ParameterHandler -&gt; ResultSetHandler -&gt; TypeHandler Mybatis 延迟加载]]></content>
+      <tags>
+        <tag>迅速拾起技能大作战</tag>
+        <tag>知识整理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[解决 Mac下 Brew 更新缓慢的问题]]></title>
     <url>%2Fblog%2F2021%2F01%2F27%2Ftech%2F%E8%A7%A3%E5%86%B3%20Mac%E4%B8%8B%20Brew%20%E6%9B%B4%E6%96%B0%E7%BC%93%E6%85%A2%E7%9A%84%E9%97%AE%E9%A2%98%2F</url>
     <content type="text"><![CDATA[Mac 下 Brew 更新报错 123456789101112131415==&gt; Fetching /usr/local/Homebrew...remote: Enumerating objects: 8643, done.remote: Counting objects: 100% (8643/8643), done.remote: Compressing objects: 100% (96/96), done.fatal: the remote end hung up unexpectedly24 MiB | 15.00 KiB/sfatal: early EOFfatal: index-pack failed==&gt; Resetting /usr/local/Homebrew...Branch 'master' set up to track remote branch 'master' from 'origin'.Reset branch 'master'Your branch is up to date with 'origin/master'.==&gt; Fetching /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core...^C 报错原因及解决办法 切换到国内 Gitee 的镜像源。参考指令如下： 1234567# 更新 brewcd "$(brew --repo)"git remote set-url origin https://gitee.com/brew-cn/brew.git# 更新 homebrew-corecd "$(brew --repo)/Library/Taps/homebrew/homebrew-core"git remote set-url origin https://gitee.com/brew-cn/homebrew-core.git]]></content>
